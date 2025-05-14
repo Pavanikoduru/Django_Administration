@@ -21,7 +21,8 @@ python manage.py createsuperuser
 
 Follow the prompts to set up your admin credentials.
 
-Start the development server
+Start the development server:
+
 python manage.py runserver
 
 Access the application
