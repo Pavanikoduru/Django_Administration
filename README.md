@@ -7,14 +7,18 @@ Create and activate a virtual environment
 1)python3 -m venv venv
 2)source venv/bin/activate
 
-Install dependencies
+Install dependencies:
+
 pip install -r requirements.txt
 
-Apply database migrations
+Apply database migrations:
+
 python manage.py migrate
 
-Create a superuser
+Create a superuser:
+
 python manage.py createsuperuser
+
 Follow the prompts to set up your admin credentials.
 
 Start the development server
