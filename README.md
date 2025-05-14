@@ -1,6 +1,6 @@
 # Django_Administration
 Clone the repository
-git clone 
+git clone https://github.com/Pavanikoduru/Django_Administration.git
 cd suggesionbox
 
 Create and activate a virtual environment
